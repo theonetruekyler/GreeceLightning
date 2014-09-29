@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:df944c26ac4d2ef0ab2b3b365019f225:858618d3c96e7ff60706d70a86c552d4:670aa34f306f7040ce14d4c980a54b80$ -->
+<TextureAtlas imagePath="texture_atlas.png">
+    <SubTexture name="buttons/scroll_closed" x="2" y="2" width="61" height="79"/>
+    <SubTexture name="buttons/scroll_open" x="65" y="2" width="106" height="94"/>
+    <SubTexture name="denizens/pikeman/pikeD1" x="173" y="2" width="46" height="72"/>
+    <SubTexture name="denizens/pikeman/pikeD2" x="221" y="2" width="46" height="72"/>
+    <SubTexture name="denizens/pikeman/pikeD3" x="269" y="2" width="46" height="72"/>
+    <SubTexture name="denizens/pikeman/pikeR" x="317" y="2" width="42" height="72"/>
+    <SubTexture name="denizens/pikeman/pikeSR" x="361" y="2" width="41" height="72"/>
+    <SubTexture name="emojis/exclamation" x="404" y="2" width="24" height="24"/>
+    <SubTexture name="emojis/grimace" x="430" y="2" width="24" height="24"/>
+    <SubTexture name="healthbar/bar" x="456" y="2" width="48" height="5"/>
+    <SubTexture name="healthbar/border" x="2" y="98" width="50" height="5"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR1" x="54" y="98" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR2" x="159" y="98" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR3" x="264" y="98" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR4" x="369" y="98" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR5" x="2" y="188" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/attacking_right/minoAR6" x="107" y="188" width="103" height="88"/>
+    <SubTexture name="minions/minotaur/commanding_right/minoCR1" x="212" y="188" width="102" height="87"/>
+    <SubTexture name="minions/minotaur/commanding_right/minoCR2" x="316" y="188" width="102" height="87"/>
+    <SubTexture name="minions/minotaur/commanding_right/minoCR3" x="2" y="278" width="102" height="87"/>
+    <SubTexture name="minions/minotaur/commanding_right/minoCR4" x="106" y="278" width="102" height="87"/>
+    <SubTexture name="minions/minotaur/commanding_right/minoCR5" x="210" y="278" width="102" height="87"/>
+    <SubTexture name="minions/minotaur/still/Minotaur" x="314" y="278" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR1" x="358" y="278" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR2" x="402" y="278" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR3" x="446" y="278" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR4" x="2" y="367" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR5" x="46" y="367" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR6" x="90" y="367" width="42" height="83"/>
+    <SubTexture name="minions/minotaur/walking_right/minoWR7" x="134" y="367" width="42" height="83"/>
+    <SubTexture name="minions/pit/pit1" x="178" y="367" width="96" height="96"/>
+    <SubTexture name="minions/pit/pit2" x="276" y="367" width="96" height="96"/>
+    <SubTexture name="minions/pit/pit3" x="374" y="367" width="96" height="96"/>
+    <SubTexture name="minions/pit/pit4" x="2" y="465" width="96" height="96"/>
+    <SubTexture name="minions/skeleton/attack_right/skelAR1" x="100" y="465" width="100" height="90"/>
+    <SubTexture name="minions/skeleton/attack_right/skelAR2" x="202" y="465" width="100" height="90"/>
+    <SubTexture name="minions/skeleton/attack_right/skelAR3" x="304" y="465" width="100" height="90"/>
+    <SubTexture name="minions/skeleton/attack_right/skelAR4" x="406" y="465" width="100" height="90"/>
+    <SubTexture name="minions/skeleton/still/skelSR" x="2" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR3" x="54" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR4" x="106" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR5" x="158" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR6" x="210" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR7" x="262" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR8" x="314" y="563" width="50" height="70"/>
+    <SubTexture name="minions/skeleton/walking_right/skelWR9" x="366" y="563" width="50" height="70"/>
+</TextureAtlas>
